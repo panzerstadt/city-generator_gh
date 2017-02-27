@@ -1,0 +1,7 @@
+1. install ironpython 2.7.5, making note of where you installed it. (usually program files (x86)
+2. go to where you installed the program 
+
+default location is   Program Files (x86)\IronPython 2.7\Lib\site-packages
+
+3. paste all the stuff from site-packages in there
+4. should work

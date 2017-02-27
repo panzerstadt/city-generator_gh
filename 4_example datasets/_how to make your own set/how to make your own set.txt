@@ -1,0 +1,32 @@
+appendixes are tied to the numbers below
+
+GET JPEG(S)
+1. download google earth PRO
+2. type location
+3. make sure view is perpendicular to ground (plan view) by shift+left-click-drag up
+4. make sure north points up by clicking N (top right)
+5. file > save image
+6. map options: only tick scale
+7. resolution: set maximum resolution (~4k)
+8. save image
+
+GET KML
+9. while in the save image crop (smaller than the usual google earth crop), click on new pin
+10. drag new pin to bottom left corner of the map
+11. right click on pin, save as kml
+
+GET OSM
+12. open https://www.openstreetmap.org/
+13. download area that you want to have buildings and roads
+
+(OPTIONAL) GET ADDITIONAL GOOGLE EARTH IMAGES
+* can be done after pin has been saved, as saved pin also saves the correct crop
+14. click on saved pin, apply overlay as required
+15. save image(s)
+
+16. put everything into a folder, put the folder in the 'examples datasets' folder, where you can also see GIS_datdsets.
+17. make sure all file extensions are correct.
+
+pictures have .jpg
+osm file has .osm
+google pin has .kml, not kmz
