@@ -1,6 +1,6 @@
 Design Augmentation Tool pre-alpha 0.1
 
- Preamble
+PREAMBLE
 
 The question of the relevance of the creative design process (as we are taught in school) in the contemporary world has always been a question I could not find an answer for.
 
@@ -34,7 +34,8 @@ The current iteration does not yet achieve the lofty goals that have been outlin
 It is hoped that with time and with a lot of testing that this tool has the potential to enable all architects to be lazy, playful, passionate procrastinators that we as creative types often wish to be.
 
 
- Instructions
+
+INSTRUCTIONS
 
 - pre-requisites: Rhino and Grasshopper latest versions, Google Earth Pro(free), and a decent internet connection.
 
