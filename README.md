@@ -1,5 +1,7 @@
 Design Augmentation Tool pre-alpha 0.1
 
+ Preamble
+
 The question of the relevance of the creative design process (as we are taught in school) in the contemporary world has always been a question I could not find an answer for.
 
 The current world as we are living in it is now more interconnected than ever, more full of measurable data that is possible to comprehend.
@@ -32,8 +34,9 @@ The current iteration does not yet achieve the lofty goals that have been outlin
 It is hoped that with time and with a lot of testing that this tool has the potential to enable all architects to be lazy, playful, passionate procrastinators that we as creative types often wish to be.
 
 
-- pre-requisites: Rhino and Grasshopper latest versions, Google Earth Pro(free), and a decent internet connection.
+ Instructions
 
+- pre-requisites: Rhino and Grasshopper latest versions, Google Earth Pro(free), and a decent internet connection.
 
 0. download entire .rar file onto your desktop
 1. open grasshopper > file > special folders > components folder and paste contents of folder '2_plugins required' into the components folder
