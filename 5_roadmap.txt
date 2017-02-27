@@ -1,0 +1,29 @@
+2017/02/23
+
+
+roadmap for design augmentaion tool v0.1:
+
+Now - rain occlusion
+End of Feb/first week of March - live and historical weather data
+End of Feb/first week of March .5 - expose all baking buttons
+Mid March - The ability to stitch existing site model to expanded city model + retrieve google earth imagery automatically
+End March - live and historical traffic data
+Mid April - NDVI - automatically create trees
+Mid April .5 - link wind/rain data to tree growth on site with rain occlusion
+Near Future - integrate Apartment Design Guide (NSW_au) to create feasibility study tool
+
+Nagging at the back of my head - solving projection issues once and for all
+Possible solution for nag - retrieve google earth imagery automatically instead of manually
+
+
+Laundry list:
+
+- integrate vane (http://owm.io/) for ndvi and more /or manually code ndvi calculator
+- the ability to stitch existing site model in whatever fashion into expanded city model
+- twitter and facebook by coordinates
+- restaurant recommendations
+- the ability to parse regulation pdfs and extract important regulations that relate to different phases of design - by country
+- ML - machine learning for the data sources
+- ML - image recognition and dense captioning on google street view photos to read subjective density data
+- vray render automation + batch rendering
+- ML - integrating Vision API for some shallow captioning of image sources that could be retrived regarding site (fb, twitter?)
