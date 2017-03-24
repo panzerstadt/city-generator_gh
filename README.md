@@ -1,4 +1,4 @@
-Design Augmentation Tool pre-alpha 0.1
+## Design Augmentation Tool pre-alpha 0.1
 
 # PREAMBLE
 
@@ -57,11 +57,11 @@ e.g:  I:\_FOR GITHUB_compilation 20170226\4_example datasets\hongkong dataset wi
 10. think of what you would like to add to the design tool, and have a look at the file '5_roadmap'
 11. send suggestions to tliqun@gmail.com
 
-disclaimer: 
+### disclaimer: 
 - openstreetmap doesn't always have all the building boundary info or building height info, so currently the script fills in the blanks with the equivalent of 3-5 storey heights
 - there are currently no proper roads, only single polylines. i used to have a semi-working road generator for that, but due to it not beong robust enough, it was not included
  
 
-known issues:
+### known issues:
 - home-brew python port of the coordinate conversion does not seem to match google earth imagery, and disparity increases as the scale of the model increases. actually gHowl might already be able to solve that but i haven't gone around to it yet.
 - weimar example dataset has a super fancy tall structure sticking out of its city center according to osm, but i'm sure its a mismatch of info. will look into it in time.
