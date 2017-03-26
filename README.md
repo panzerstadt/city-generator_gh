@@ -41,7 +41,7 @@ Do what you want with it, mix datasets together and see what happens, make desig
 
 0. clone/download this repository file onto your desktop (green button on the top right of this page)
 1. open grasshopper > file > special folders > components folder and paste contents of folder '2_plugins required' into the components folder
-2. install ironpython from '3_ironpython required' and the associated site_packages (plugins). refer to instructions in the folder
+2. install ironpython from '3_ironpython required' and the associated site_packages (plugins). (by default under Program Files x86/Iron Python 2.7/lib/site-packages). refer to further instructions in the folder.
 3. restart Rhino and Grasshopper
 4. load design_augmentation_tool_pre_alpha_v0.1.gh into grasshopper and wait for it to stop freezing.
 5. copy the folder directory for the hong kong dataset with timelapse (in 4_example datasets). 
